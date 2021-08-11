@@ -1,4 +1,7 @@
 # MemoryTile
+##Requirement:-
+Pygame
+
 ![Screenshot from 2021-08-11 12-23-52](https://user-images.githubusercontent.com/47990928/128987979-37842325-62bc-4835-9b9f-3ae6b1dbefd5.png)
 ![Screenshot from 2021-08-11 12-23-57](https://user-images.githubusercontent.com/47990928/128988015-d3c4f0ee-997b-48c7-ad1b-e72cb41762c6.png)
 ![Screenshot from 2021-08-11 12-24-03](https://user-images.githubusercontent.com/47990928/128988028-fcb53e7b-9ed5-442a-b709-a52ce357fc65.png)
